@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @m0-hassan
 - 👀 I’m interested in low-level programming, quantum systems, and computational modeling
-- 🌱 I’m currently learning vizualization through python
-- 📫 How to reach me (discord): "pyxel."
+- 🌱 I’m currently learning visualization through python
 - ⚡ Fun fact: I love ryzen
 
 <!---
