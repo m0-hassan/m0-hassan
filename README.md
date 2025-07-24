@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m0-hassan
-- 👀 I’m interested in low-level programming, quantum systems, and computational modeling
-- 🌱 I’m currently learning visualization through python
+- 👀 I’m interested in low-level programming, RF, quantum systems, and computational modeling
+- 🌱 I’m currently learning FPGA stuff
 - ⚡ Fun fact: I love ryzen
 
 <!---
