@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m0-hassan
-- 👀 I’m interested in low-level programming, RF, quantum systems, and computational modeling
+- 👀 I’m interested in hardware design and quantum
 - 🌱 I’m currently learning FPGA stuff
 - ⚡ Fun fact: I love ryzen
 
