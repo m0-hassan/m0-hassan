@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m0-hassan
 - 👀 I’m interested in hardware design and quantum
 - 🌱 I’m currently learning FPGA stuff
-- ⚡ Fun fact: I love ryzen
+- ⚡ Fun fact: I love LTSpice
 
 <!---
 m0-hassan/m0-hassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
